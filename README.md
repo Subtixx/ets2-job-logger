@@ -93,7 +93,7 @@ Below is an example of JSON format for a job.
         "planned": 248            // Planned trip distance kilometers
     },
     "trailer": {
-        "id": ""scs_box.moving_floor.chassis_stwx2esii""
+        "id": "scs_box.moving_floor.chassis_stwx2esii"
         "accessoryId": ""
     },
     "cargo": {
@@ -144,7 +144,7 @@ happens it's a bug.
 Description of job types:
 
 ```
-0 = Unknow
+0 = Unknown
 1 = CargoMarket
 2 = QuickJob
 3 = FreightMarket
